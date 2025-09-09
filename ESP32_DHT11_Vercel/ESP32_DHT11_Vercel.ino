@@ -22,7 +22,7 @@ const char* WIFI_PASSWORD = "0622198015";
 
 // Your deployed Vercel base URL (no trailing slash). Example:
 //   https://your-project.vercel.app
-const char* BASE_URL = "https://dht-sensor-f88.vercel.app/api";
+const char* BASE_URL = "https://dht-sensor-f88.vercel.app";
 
 // Device ID (use a stable unique id per board)
 const char* DEVICE_ID = "ESP32-DHT11-001";
